@@ -1,5 +1,5 @@
-# KindTraining Web Application
-The KindTraining Web Application is a multi-page platform designed to promote early childhood education and care (ECCE). It provides essential information, resources, and services to facilitate holistic child development and support parents in choosing the best foundation for their children’s education.
+# KidTraining Web Application
+The KidTraining Web Application is a multi-page platform designed to promote early childhood education and care (ECCE). It provides essential information, resources, and services to facilitate holistic child development and support parents in choosing the best foundation for their children’s education.
 
 # Key Features:
 ## Home Page
